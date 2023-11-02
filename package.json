@@ -1,0 +1,10 @@
+{
+  "name": "parallax-2",
+  "version": "1.0.0",
+  "description": "A parallax effect demo",
+  "author": "Jean",
+  "dependencies": {
+    "gsap": "^3.8.0",
+    "scrolltrigger-gsap": "^3.5.0"
+  }
+}
